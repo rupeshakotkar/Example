@@ -1,0 +1,2 @@
+Static is keyword used before variable, method and block.
+when we use it before variable it becomes class level i.e. a single copy storage.
